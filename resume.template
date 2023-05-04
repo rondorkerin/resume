@@ -4,16 +4,16 @@
   },
   "basics": {
     "name": "Nick Bryant",
-    "label": "AI Software Engineer",
+    "label": "Fullstack AI Startup Engineer",
     "image": "https://en.gravatar.com/userimage/9017937/b954bf7242d4fdd6e315cb70b47fee2a.png?size=200",
     "email": "sbryant31@gmail.com",
     "phone": "1-720-666-3245",
     "url": "https://nickbryant.fyi",
-    "summary": "Seeking entry level ML/AI role for cutting edge technology organization. Serial technical founder with deep web development skills & solid AI/ML academic base seeking opportunity pivot to AI/ML.",
+    "summary": "Serial technical founder with 10+ years experience and well-rounded hacking/product/strategic skills looking to join AI startup.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "NYC",
+      "city": "NYC/SF",
       "countryCode": "USA",
       "region": ""
     },
@@ -192,23 +192,8 @@
   "publications": [],
   "skills": [
     {
-      "name": "Python Data Stack",
-      "level": "Beginner",
-      "keywords": [
-        "pytorch",
-        "tensorflow",
-        "jupyter",
-        "pandas",
-        "python",
-        "numpy",
-        "matplotlib",
-        "scipy",
-        "scikit-learn"
-      ]
-    },
-    {
       "name": "Databases & Data Systems",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
         "MongoDB",
         "SQL",
@@ -224,6 +209,22 @@
         "RabbitMQ",
         "PineconeDB",
         "Firebase"
+      ]
+    }, {
+      "name": "Fullstack Web Development",
+      "level": "Master",
+      "keywords": [
+        "Typescript",
+        "React.JS",
+        "Express.JS",
+        "Serverless",
+        "Ruby on Rails",
+        "Flask",
+        "Elixir",
+        "AWS",
+        "Google Cloud",
+        "Kubernetes",
+        "Docker"
       ]
     },
     {
@@ -246,20 +247,18 @@
       ]
     },
     {
-      "name": "Fullstack Web Development",
-      "level": "Advanced",
+      "name": "Python Data Stack",
+      "level": "Beginner",
       "keywords": [
-        "Typescript",
-        "React.JS",
-        "Express.JS",
-        "Serverless",
-        "Ruby on Rails",
-        "Flask",
-        "Elixir",
-        "AWS",
-        "Google Cloud",
-        "Kubernetes",
-        "Docker"
+        "pytorch",
+        "tensorflow",
+        "jupyter",
+        "pandas",
+        "python",
+        "numpy",
+        "matplotlib",
+        "scipy",
+        "scikit-learn"
       ]
     }
   ],
