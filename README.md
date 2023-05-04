@@ -1,6 +1,6 @@
 # jsonresume-theme-kendall
 https://registry.jsonresume.org/rondorkerin
-` resume export resume.pdf --theme .`
+` resume export resume.pdf -r resume.json --theme .`
 
 A theme for the [JSONResume](https://github.com/jsonresume/resume-schema) schema, that relies on Bootstrap and FontAwesome, added with some personal flair.
 
