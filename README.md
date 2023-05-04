@@ -1,4 +1,5 @@
 # jsonresume-theme-kendall
+` resume export resume.pdf --theme .`
 
 A theme for the [JSONResume](https://github.com/jsonresume/resume-schema) schema, that relies on Bootstrap and FontAwesome, added with some personal flair.
 
@@ -41,7 +42,7 @@ resume serve --theme .
 ```
 
 You should now see this message:
-
+,
 ```
 Preview: http://localhost:4000
 Press ctrl-c to stop
